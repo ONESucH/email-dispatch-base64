@@ -1,0 +1,18 @@
+{
+  "name": "email-partners",
+  "version": "1.0.0",
+  "description": "builder",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Богданов Илья <onesuch07@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "browser-sync": "^2.24.6",
+    "gulp": "^3.9.1",
+    "gulp-imagemin": "^3.4.0",
+    "gulp-inline-base64": "^0.1.5",
+    "gulp-plumber": "^1.2.0"
+  }
+}
